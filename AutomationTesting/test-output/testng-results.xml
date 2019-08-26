@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17851" started-at="2019-08-26T15:29:40Z" finished-at="2019-08-26T15:29:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17851" started-at="2019-08-26T15:29:40Z" finished-at="2019-08-26T15:29:58Z">
+      <class name="com.Selenium.Testscript.OrangeHrm">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.Selenium.Testscript.OrangeHrm@29215f06]" name="test" duration-ms="13761" started-at="2019-08-26T15:29:40Z" finished-at="2019-08-26T15:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="splTest()[pri:1, instance:com.Selenium.Testscript.OrangeHrm@29215f06]" name="splTest" duration-ms="202" started-at="2019-08-26T15:29:54Z" finished-at="2019-08-26T15:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- splTest -->
+        <test-method status="PASS" signature="afterSplTest()[pri:2, instance:com.Selenium.Testscript.OrangeHrm@29215f06]" name="afterSplTest" duration-ms="243" started-at="2019-08-26T15:29:54Z" finished-at="2019-08-26T15:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSplTest -->
+        <test-method status="PASS" signature="splTestThr()[pri:3, instance:com.Selenium.Testscript.OrangeHrm@29215f06]" name="splTestThr" duration-ms="3586" started-at="2019-08-26T15:29:54Z" finished-at="2019-08-26T15:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- splTestThr -->
+      </class> <!-- com.Selenium.Testscript.OrangeHrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
